@@ -12,7 +12,10 @@ Deadline for submissions: June 28th (midnight, Anywhere on Earth)
 Check the schedule [soon]
 
 ## About
-The VisGuides 2024 Workshop focuses on the analysis, design, reflection, and discussion of applicable frameworks to mastering guidelines in visualization by the broader visualization community, embedded in a larger research agenda of visualization theory and practices. It follows up the ideas from the IEEE VIS 2016, [2018](https://c4pgv.dbvis.de/), [2020](https://nms.kcl.ac.uk/c4pgv/) Workshop on Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (C4PGV).
+The VisGuides 2024 Workshop aims to research applicable frameworks for mastering visualization guidelines and best practices within the broader visualization community. These efforts are part of a larger visualization theory and practices research agenda.
+This year's edition will focus on how our community applies visualization guidelines and best practices in real-world situations and how emerging Generative AI technologies are transforming their use.
+
+Our workshop builds upon previous ideas from the IEEE VIS 2016, [2018](https://c4pgv.dbvis.de/), [2020](https://nms.kcl.ac.uk/c4pgv/) Workshop on Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (C4PGV) and incorporates new open questions related to the evolving context of best practices and guidelines in our field.
 
 The workshop also features an open call for being part of the program committee (PC) to provide an opportunity to advocate for guidelines on a broad range of topics. If you want to get involved, contact diehl (at) ifi.uzh.ch.
 
